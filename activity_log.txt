@@ -585,3 +585,169 @@
  rrrrrrrrrrrr_rrrrr__rrrrr_r_r_rr_rrrrrrrrr_rr__r_rrrrr__rrr_r_______rrrr_rr_____
  ____rrrrrrrrr_rr__rr_________rr__r_r__rrrrrr_rr_________r_______iiiiiirriiii....
  
+2022-12-04 04:26:27 e:/Documents/pico8/carts/p2022c.p8
+ rrrrrrrr_rrrrrrrrr_rrrrrr_rrrrr___rrrrrr__r_r__r______rrr_rrrr_rrrrr_r_rrr_rrrr_
+ rr_rrrr___rrrrrrrrrrrrr_r_r_rr__r_r_r_rrrr__r_rrr_rrrrrr_rrrrrrrrrrr_r__r_rr__r_
+ r_rrrrr___r_rrrrrrrrr_rr___r____rrrrrrr_rr_rrrrrrr_r_r_r_rrrrrrrr_rrrrrrrr_rrrr_
+ rrr_r______r_rr_________r
+2022-12-04 18:44:05 e:/Documents/pico8/carts/p2022d.p8
+ 
+2022-12-04 18:44:35 e:/Documents/pico8/carts/p2022a.p8
+ ri.........ggggggircggg.........
+2022-12-04 18:46:02 e:/Documents/pico8/carts/p2022d.p8
+ r_ig
+2022-12-04 18:47:23 e:/Documents/pico8/carts/p2022d.p8
+ r____r
+2022-12-04 18:48:25 e:/Documents/pico8/carts/p2022d.p8
+ r__r
+2022-12-04 18:48:45 e:/Documents/pico8/carts/p2022d.p8
+ r_____r_________ii.i....cggggggggggggggggggggggggggggggggggggggggii
+2022-12-04 18:53:35 e:/Documents/pico8/carts/p2022d.p8
+ rrrggggggggg.....gggggg.........ggggggg.gggggggggggggggggggggggggggggggggggggggg
+ gggggggggggggg.ggggggggggg.ggggggggggggggg.ggggggggggggggggg....ggggggggggggg..g
+ ggggggggggggggggggggggggggggggggggggggggggggggggg...gggggggggggggggggggggggggggg
+ ggggggggggggggggggggg.ggg.gggggggggggggggg.giig.....gggggggggg.gg...gggggggggggg
+ .gggggg.gggggg.gggggggggggggggigggggg.....ggg.ggggggggggggggggggggggggggggg.gggg
+ ..gggg.gggg.ggggggggggg.ggggggggggg.ggggggggggggggg.gggggggggggggggg.g.gg.gggggg
+ ggggggggggggggggggggggggggggggg.ggggggggggggggg.gggggg.ggggggggggggggggggggggggg
+ g.ggggggggggggggg.ggg.gggggggggg...igggggggggggggggggg.ggggg.gggggggg.gggggggggg
+ gggggggggggggggg.gg..gggggggggggggg.g.gggggggg.gggggggggggg..ggggggg.ggggg.ggggg
+ ggggg.ggg.gggggggggg..g.........g.gg...ggg....gggg.gggggggggggggggggggg.........
+ i
+2022-12-04 19:40:48 e:/Documents/pico8/carts/p2022d.p8
+ 
+2022-12-04 19:41:16 e:/Documents/pico8/carts/p2022a.p8
+ r_cg..g.......ggircggg...
+2022-12-04 19:41:49 e:/Documents/pico8/carts/p2022d.p8
+ r_rr
+2022-12-04 19:47:46 e:/Documents/pico8/carts/p2022d.p8
+ rrrrrrrr
+2022-12-04 19:49:04 e:/Documents/pico8/carts/p2022d.p8
+ rrrr
+2022-12-04 19:51:24 e:/Documents/pico8/carts/p2022d.p8
+ rrrri
+2022-12-04 19:53:06 e:/Documents/pico8/carts/p2022d.p8
+ rr
+2022-12-04 19:53:58 e:/Documents/pico8/carts/p2022d.p8
+ rrrrrrrrrrr___rrrr_cgggggggggggggggggg.gggg.gggggggggggggggggg.gggggggg.gggggggg
+ 
+2022-12-04 20:00:16 e:/Documents/pico8/carts/p2022d.p8
+ rrrig........ggggggggggggggg....iggggg.........
+2022-12-04 20:00:33 e:/Documents/pico8/carts/p2022d.p8
+ ricgggg.ii
+2022-12-04 20:01:07 e:/Documents/pico8/carts/p2022d.p8
+ rrrrr____
+2022-12-04 20:02:39 e:/Documents/pico8/carts/p2022d.p8
+ rggg.........gg.........g.........g
+2022-12-04 20:05:29 e:/Documents/pico8/carts/p2022d.p8
+ rr_____r_____rr_________
+2022-12-04 20:07:34 e:/Documents/pico8/carts/p2022d.p8
+ rr______
+2022-12-04 20:08:08 e:/Documents/pico8/carts/p2022d.p8
+ rrrrrr_____i
+2022-12-04 20:09:39 e:/Documents/pico8/carts/p2022d.p8
+ rrrrrrrrrrr_rrr__ii...
+2022-12-04 20:11:18 e:/Documents/pico8/carts/p2022d.p8
+ rr
+2022-12-04 20:11:36 e:/Documents/pico8/carts/p2022d.p8
+ rr_i
+2022-12-04 20:11:56 e:/Documents/pico8/carts/p2022d.p8
+ rrrrr_
+2022-12-04 20:13:09 e:/Documents/pico8/carts/p2022d.p8
+ i.....
+2022-12-04 20:13:46 e:/Documents/pico8/carts/p2022d.p8
+ rrrrr
+2022-12-04 20:16:48 e:/Documents/pico8/carts/p2022d.p8
+ rrr
+2022-12-04 20:17:14 e:/Documents/pico8/carts/p2022d.p8
+ rrrr_rrcssssssssssss
+2022-12-04 20:18:36 e:/Documents/pico8/carts/p2022d.p8
+ rrr
+2022-12-04 20:19:13 e:/Documents/pico8/carts/p2022d.p8
+ rrrrrrrr_rrr__cgg..g..gggggggggggg.g....gggggggggggggggggggggggggggg........gsss
+ sssssssssssssssssssssss.ssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+ ssssssssssssssssssssssssssssssssssssssssssssssssssss.sssssii.ii.iii......
+2022-12-04 20:31:21 e:/Documents/pico8/carts/p2022d.p8
+ ricggggggggggggggggggggggggggggggggggggii
+2022-12-04 20:37:16 e:/Documents/pico8/carts/p2022d.p8
+ 
+2022-12-04 20:39:00 e:/Documents/pico8/carts/p2022d.p8
+ 
+2022-12-04 20:40:18 e:/Documents/pico8/carts/p2022d.p8
+ 
+2022-12-04 20:41:09 e:/Documents/pico8/carts/p2022d.p8
+ 
+2022-12-04 20:41:33 e:/Documents/pico8/carts/p2022d.p8
+ rrrrr
+2022-12-04 20:42:47 e:/Documents/pico8/carts/p2022d.p8
+ rrrr_
+2022-12-04 20:43:25 e:/Documents/pico8/carts/p2022d.p8
+ rrrrrr
+2022-12-04 20:46:14 e:/Documents/pico8/carts/p2022d.p8
+ riii
+2022-12-04 20:46:41 e:/Documents/pico8/carts/p2022d.p8
+ i.i.........rrrrrrii.........rrii.........r_ri.........rrrrr__rri.........ii...iicssssssssssssss...
+2022-12-04 20:50:12 e:/Documents/pico8/carts/p2022d.p8
+ rr_rrrrrrr
+2022-12-04 20:51:55 e:/Documents/pico8/carts/p2022d.p8
+ rrrrrrri
+2022-12-04 20:52:50 e:/Documents/pico8/carts/p2022d.p8
+ rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+2022-12-04 20:55:40 e:/Documents/pico8/carts/p2022d.p8
+ riggg
+2022-12-04 20:57:11 e:/Documents/pico8/carts/p2022d.p8
+ rcg
+2022-12-04 21:05:34 e:/Documents/pico8/carts/p2022d.p8
+ ri
+2022-12-04 21:06:01 e:/Documents/pico8/carts/p2022d.p8
+ 
+2022-12-04 21:06:48 e:/Documents/pico8/carts/p2022d.p8
+ rrri.........rrrri.......
+2022-12-04 21:07:28 e:/Documents/pico8/carts/p2022d.p8
+ rrrrrrrrr
+2022-12-04 21:08:17 e:/Documents/pico8/carts/p2022d.p8
+ rrrrrrrrrrrrrrrrrrrrc
+2022-12-04 21:13:31 e:/Documents/pico8/carts/p2022d.p8
+ 
+2022-12-04 21:14:04 e:/Documents/pico8/carts/p2022d.p8
+ rrrirrr__i.........i
+2022-12-04 21:14:42 e:/Documents/pico8/carts/p2022d.p8
+ ri.i
+2022-12-04 21:17:22 e:/Documents/pico8/carts/p2022d.p8
+ rii..
+2022-12-04 21:17:47 e:/Documents/pico8/carts/p2022d.p8
+ rii
+2022-12-04 21:19:09 e:/Documents/pico8/carts/p2022d.p8
+ rrrrrrrrrrrri
+2022-12-04 21:22:34 e:/Documents/pico8/carts/p2022d.p8
+ rrrrrrrrrrri..i.........i
+2022-12-04 21:24:19 e:/Documents/pico8/carts/p2022d.p8
+ rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrii.
+2022-12-04 21:28:24 e:/Documents/pico8/carts/p2022d.p8
+ rr_________r_________
+2022-12-04 21:30:58 e:/Documents/pico8/carts/p2022d.p8
+ rrcsssssssssssssssssssssssssssssssssssssssssssi
+2022-12-04 21:34:27 e:/Documents/pico8/carts/p2022d.p8
+ rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrri.....
+ 
+2022-12-04 21:42:49 e:/Documents/pico8/carts/p2022d.p8
+ rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+ rrrrrrii...
+2022-12-04 21:53:56 e:/Documents/pico8/carts/p2022d.p8
+ rr______ii....
+2022-12-04 21:55:15 e:/Documents/pico8/carts/p2022d.p8
+ r_r___rrrrrr__rrrrrrrrrrrr___rrrrrrrrrr_____r
+2022-12-04 21:57:57 e:/Documents/pico8/carts/p2022d.p8
+ rrrrrrrrrrrr___
+2022-12-04 22:01:40 e:/Documents/pico8/carts/p2022d.p8
+ rrrrrrrrrrrr_
+2022-12-04 22:02:41 e:/Documents/pico8/carts/p2022d.p8
+ rrrrrrrrrrrr___r
+2022-12-04 22:03:46 e:/Documents/pico8/carts/p2022d.p8
+ rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr_
+2022-12-04 22:06:17 e:/Documents/pico8/carts/p2022d.p8
+ rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr_r
+2022-12-04 22:08:45 e:/Documents/pico8/carts/p2022d.p8
+ rrrrr_____r
+2022-12-04 22:09:42 e:/Documents/pico8/carts/p2022d.p8
+ riii.irr_iiii.........
