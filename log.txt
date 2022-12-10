@@ -12,85 +12,84 @@
 [000000]     07 fullscreen_method 1 // 0 maximized window (linux)  1 borderless desktop-sized window  2 hardware fullscreen (warning: erratic behaviour under some drivers)
 [000000]     08 foreground_sleep_ms 5 // number of milliseconds to sleep each frame. Try 10 to conserve battery power
 [000000]     09 background_sleep_ms 20 // number of milliseconds to sleep each frame when running in the background
-[000000]     10 sessions 368 // number of times program has been run
+[000000]     10 sessions 388 // number of times program has been run
 [000000]     11 rmb_key 0 // 0 for none  226 for LALT
 [000000]     12 desktop_path 
 [000000]     13 read_controllers_in_background 0
 [000000]     14 sound_volume 256 // 0..256
 [000000]     15 music_volume 256 // 0..256
-[000001]     16 mix_buffer_size 1024
-[000001]     17 map_scancodes 
-[000001]     18 version 0.2.5c
-[000001]     19 volume 256
-[000001]     20 root_path C:/Users/Brenda/AppData/Roaming/pico-8/carts/
-[000001]     21 cdata_path C:/Users/Brenda/AppData/Roaming/pico-8/cdata/
-[000001]     22 joystick_index 0
-[000001]     23 button_keys 0 0 0 0 0 0 0 0 0 0 0 0 0 
-[000001]     24 live_notes 0
-[000001]     25 cursor_snap 0
-[000001]     26 gui_theme 0
-[000001]     27 screenshot_scale 3
-[000001]     28 gif_scale 2
-[000001]     29 gif_len 8
-[000001]     30 gif_reset_mode 0
-[000001]     31 host_framerate_control 1
-[000001]     32 splore_filter 0
-[000001]     33 tab_width 1
-[000001]     34 draw_tabs 0
-[000001]     35 record_activity_log 1
-[000001]     36 allow_function_keys 1
-[000001]     37 check_for_cart_updates 1
-[000001]     38 auto_hide_mouse_cursor 5
-[000001]     39 aggressive_backups 0
-[000001]     40 periodic_backups 20
-[000001]     41 transform_screen 0
-[000001]     42 gfx_grid_lines 0
-[000001]   
-[000002]   codo_system_init
-[000537]   Compiled against SDL version: 2.0.2
-[000537]   Linked against SDL version:   2.0.9
-[000537]   Current video driver: windows
-[000537]   codo_reset_timer
-[000537]   codo_gui_init
-[000537]   codo_keys_init
-[000537]   codo_text_init
-[000537]   codo_video_init
-[000537]   codo_mouse_init
-[000537]   codo_joystick_init
-[000538]   Reading controller mappings: e:/Documents/pico8/sdl_controllers.txt
-[000538]   searching for joysticks
-[000538]     found 0 joysticks
-[000538]   ok
-[000538] ok
-[000552] codo_load_pod: E:/Program Files (x86)/PICO-8/pico8.dat ok 
-[000555] codo_set_screen 128 128 8 100
-[000555]  window size: 640 540
-[000707]   setting filter to nearest (screen_mode 0  back page width: 128)
+[000000]     16 mix_buffer_size 1024
+[000000]     17 map_scancodes 
+[000000]     18 version 0.2.5c
+[000000]     19 volume 256
+[000000]     20 root_path C:/Users/Brenda/AppData/Roaming/pico-8/carts/
+[000000]     21 cdata_path C:/Users/Brenda/AppData/Roaming/pico-8/cdata/
+[000000]     22 joystick_index 0
+[000000]     23 button_keys 0 0 0 0 0 0 0 0 0 0 0 0 0 
+[000000]     24 live_notes 0
+[000000]     25 cursor_snap 0
+[000000]     26 gui_theme 0
+[000000]     27 screenshot_scale 3
+[000000]     28 gif_scale 2
+[000000]     29 gif_len 8
+[000000]     30 gif_reset_mode 0
+[000000]     31 host_framerate_control 1
+[000000]     32 splore_filter 0
+[000000]     33 tab_width 1
+[000000]     34 draw_tabs 0
+[000000]     35 record_activity_log 1
+[000000]     36 allow_function_keys 1
+[000000]     37 check_for_cart_updates 1
+[000000]     38 auto_hide_mouse_cursor 5
+[000000]     39 aggressive_backups 0
+[000000]     40 periodic_backups 20
+[000000]     41 transform_screen 0
+[000000]     42 gfx_grid_lines 0
+[000000]   
+[000000]   codo_system_init
+[000479]   Compiled against SDL version: 2.0.2
+[000479]   Linked against SDL version:   2.0.9
+[000479]   Current video driver: windows
+[000479]   codo_reset_timer
+[000479]   codo_gui_init
+[000479]   codo_keys_init
+[000479]   codo_text_init
+[000480]   codo_video_init
+[000480]   codo_mouse_init
+[000480]   codo_joystick_init
+[000481]   Reading controller mappings: e:/Documents/pico8/sdl_controllers.txt
+[000481]   searching for joysticks
+[000481]     found 0 joysticks
+[000481]   ok
+[000481] ok
+[000493] codo_load_pod: E:/Program Files (x86)/PICO-8/pico8.dat ok 
+[000497] codo_set_screen 128 128 8 100
+[000497]  window size: 640 540
+[000653]   setting filter to nearest (screen_mode 0  back page width: 128)
   renderer direct3d:
    flags: 0x0000000E ( |  | )
    texture formats (3): ARGB8888, YV12, IYUV
    max texture size: 16384x16384
-[000710]  desktop size: 1920 1080
-[000710] ok
-[000712] codo_sound_init mix_buffer_size: 1024
-[000712] codo_sound_init
-[000712] SDL_INIT_AUDIO ok
-[000739] SDL_OpenAudio ok
-[000739]  freq:22050
+[000655]  desktop size: 1920 1080
+[000655] ok
+[000657] codo_sound_init mix_buffer_size: 1024
+[000657] codo_sound_init
+[000657] SDL_INIT_AUDIO ok
+[000683] SDL_OpenAudio ok
+[000683]  freq:22050
  channels:1
-[000739] Built-in audio drivers: 0 wasapi 1 directsound 2 winmm 3 disk 4 dummy
-[000739] Current audio driver: wasapi
-[000739] splore_init
-[002618] loading e:/Documents/pico8/carts/p2022e.p8
-[004295] run_cart current_filename: e:/Documents/pico8/carts/p2022e.p8 running_filename: e:/Documents/pico8/carts/p2022e.p8 running_cart_lid: 
-[098126] window closed (14)
-[098126] codo_exit
-[098126]   cmusic_stop
-[098126]   codo_main_exit
-[098128]   codo_config_save
-[098128]   codo_sound_exit
-[098128]   codo_video_exit
-[098135]   codo_joystick_exit
-[098135]   codo_system_exit
-[098135]   codo_items_created: 1180
-[098135] ok
+[000683] Built-in audio drivers: 0 wasapi 1 directsound 2 winmm 3 disk 4 dummy
+[000683] Current audio driver: wasapi
+[000683] splore_init
+[002558] loading e:/Documents/pico8/carts/p2022j.p8
+[004235] run_cart current_filename: e:/Documents/pico8/carts/p2022j.p8 running_filename: e:/Documents/pico8/carts/p2022j.p8 running_cart_lid: 
+[085216] run_cart current_filename: e:/Documents/pico8/carts/p2022j.p8 running_filename: e:/Documents/pico8/carts/p2022j.p8 running_cart_lid: 
+[337896] run_cart current_filename: e:/Documents/pico8/carts/p2022j.p8 running_filename: e:/Documents/pico8/carts/p2022j.p8 running_cart_lid: 
+[354403] exporting html: puzzle10.html 1 1
+[354406] 1. export html
+[354406] 1.a opening output: C:/Users/Brenda/AppData/Roaming/pico-8/carts/puzzle10.html
+[354406] 1.b replacements
+[354408]  ok_
+[354416] codo_save_png result: 0  file: e:/Documents/pico8/_label.png
+[354419]  ok_
+[354420] 2. writing C:/Users/Brenda/AppData/Roaming/pico-8/carts/puzzle10.js
