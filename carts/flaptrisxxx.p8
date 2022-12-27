@@ -37,7 +37,9 @@ function _init()
         }
     }
 
-    tetrads = {
+    tetrads = {}
+
+    tetrad_library = {
         teeshape,
         elshape,
         crossshape
@@ -51,6 +53,26 @@ function _init()
     scroll_y = 0
     frames_per_scroll = 1
     frame = 0
+
+    -- fill tetrads with a hundred different tetrad shapes
+    for i=1, 100 do
+        local tetrad = tetrad_library[flr(rnd(#tetrad_library))+1]
+        local new_tetrad = {
+            center={64, 128 - 128 * i},
+            spin=tetrad.spin,
+            fn=tetrad.fn,
+            polys={}
+        }
+        for j=1, #tetrad.polys do
+            local poly = tetrad.polys[j]
+            local new_poly = {}
+            for k=1, #poly do
+                new_poly[k] = poly[k]
+            end
+            add(new_tetrad.polys, new_poly)
+        end
+        add(tetrads, new_tetrad)
+    end
 end
 
 function no_move(angle)
@@ -117,7 +139,9 @@ function _draw()
     -- square is a table of vertices. rotate it by square_angle and assign it to a new table, then render it
     for i=1, #tetrads do
         local tetrad = tetrads[i]
-        rotate_and_draw(tetrad, 2 + tetrad.fn(square_angle), 2 + scroll_y, square_angle, 3)
+        if abs(-scroll_y - tetrad.center[2]) < 256 then
+            rotate_and_draw(tetrad, 2 + tetrad.fn(square_angle), 2 + scroll_y, square_angle, 3)
+        end
     end
     
     spr(8, (128-player.size[1])/2 + player.pos[1]+2, 128-player.size[2] + player.pos[2]+2, 4, 4)
@@ -132,7 +156,9 @@ function _draw()
 
     for i=1, #tetrads do
         local tetrad = tetrads[i]
-        rotate_and_draw(tetrad, tetrad.fn(square_angle), scroll_y, square_angle, 8)
+        if abs(-scroll_y - tetrad.center[2]) < 256 then
+            rotate_and_draw(tetrad, tetrad.fn(square_angle), scroll_y, square_angle, 8)
+        end
     end
 
     local player_at = { flr(128/2 + player.pos[1]), flr(128 + player.pos[2] - 16) }
